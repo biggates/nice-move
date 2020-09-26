@@ -1451,10 +1451,10 @@ eslint-config-airbnb@^18.2.0:
     object.assign "^4.1.0"
     object.entries "^1.1.2"
 
-eslint-config-prettier@^6.11.0:
-  version "6.11.0"
-  resolved "https://registry.npm.taobao.org/eslint-config-prettier/download/eslint-config-prettier-6.11.0.tgz#f6d2238c1290d01c859a8b5c1f7d352a0b0da8b1"
-  integrity sha1-9tIjjBKQ0ByFmotcH301KgsNqLE=
+eslint-config-prettier@^6.12.0:
+  version "6.12.0"
+  resolved "https://registry.npm.taobao.org/eslint-config-prettier/download/eslint-config-prettier-6.12.0.tgz?cache=0&sync_timestamp=1601052981833&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Feslint-config-prettier%2Fdownload%2Feslint-config-prettier-6.12.0.tgz#9eb2bccff727db1c52104f0b49e87ea46605a0d2"
+  integrity sha1-nrK8z/cn2xxSEE8LSeh+pGYFoNI=
   dependencies:
     get-stdin "^6.0.0"
 
@@ -1568,15 +1568,15 @@ eslint-plugin-promise@^4.2.1:
   resolved "https://registry.npm.taobao.org/eslint-plugin-promise/download/eslint-plugin-promise-4.2.1.tgz#845fd8b2260ad8f82564c1222fce44ad71d9418a"
   integrity sha1-hF/YsiYK2PglZMEiL85ErXHZQYo=
 
-eslint-plugin-react-hooks@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.npm.taobao.org/eslint-plugin-react-hooks/download/eslint-plugin-react-hooks-4.1.0.tgz#6323fbd5e650e84b2987ba76370523a60f4e7925"
-  integrity sha1-YyP71eZQ6Esph7p2NwUjpg9OeSU=
+eslint-plugin-react-hooks@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.npm.taobao.org/eslint-plugin-react-hooks/download/eslint-plugin-react-hooks-4.1.2.tgz#2eb53731d11c95826ef7a7272303eabb5c9a271e"
+  integrity sha1-LrU3MdEclYJu96cnIwPqu1yaJx4=
 
-eslint-plugin-react@^7.20.6:
-  version "7.20.6"
-  resolved "https://registry.npm.taobao.org/eslint-plugin-react/download/eslint-plugin-react-7.20.6.tgz#4d7845311a93c463493ccfa0a19c9c5d0fd69f60"
-  integrity sha1-TXhFMRqTxGNJPM+goZycXQ/Wn2A=
+eslint-plugin-react@^7.21.2:
+  version "7.21.2"
+  resolved "https://registry.npm.taobao.org/eslint-plugin-react/download/eslint-plugin-react-7.21.2.tgz#3bd5d2c4c36d5a0428d0d6dda301ac9a84d681b2"
+  integrity sha1-O9XSxMNtWgQo0NbdowGsmoTWgbI=
   dependencies:
     array-includes "^3.1.1"
     array.prototype.flatmap "^1.2.3"
@@ -2741,10 +2741,10 @@ linguist-languages@^7.9.0:
   resolved "https://registry.npm.taobao.org/linguist-languages/download/linguist-languages-7.10.0.tgz#c2098dfe6c5a4ab665fb78f13b190344e4cff1af"
   integrity sha1-wgmN/mxaSrZl+3jxOxkDROTP8a8=
 
-lint-staged@^10.3.0:
-  version "10.3.0"
-  resolved "https://registry.npm.taobao.org/lint-staged/download/lint-staged-10.3.0.tgz#388c3d440590c45c339e7163f669ea69ae90b1e0"
-  integrity sha1-OIw9RAWQxFwznnFj9mnqaa6QseA=
+lint-staged@^10.4.0:
+  version "10.4.0"
+  resolved "https://registry.npm.taobao.org/lint-staged/download/lint-staged-10.4.0.tgz?cache=0&sync_timestamp=1600262527405&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Flint-staged%2Fdownload%2Flint-staged-10.4.0.tgz#d18628f737328e0bbbf87d183f4020930e9a984e"
+  integrity sha1-0YYo9zcyjgu7+H0YP0Agkw6amE4=
   dependencies:
     chalk "^4.1.0"
     cli-truncate "^2.1.0"
@@ -3652,7 +3652,7 @@ prettier-plugin-toml@^0.3.1:
     "@toml-tools/parser" "^0.3.1"
     prettier "^1.16.0"
 
-prettier@>=1.10, prettier@>=2.0, prettier@^2.1.1:
+prettier@>=1.10, prettier@>=2.0:
   version "2.1.1"
   resolved "https://registry.npm.taobao.org/prettier/download/prettier-2.1.1.tgz#d9485dd5e499daa6cb547023b87a6cf51bee37d6"
   integrity sha1-2Uhd1eSZ2qbLVHAjuHps9RvuN9Y=
@@ -3661,6 +3661,11 @@ prettier@^1.16.0:
   version "1.19.1"
   resolved "https://registry.npm.taobao.org/prettier/download/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
   integrity sha1-99f1/4qc2HKnvkyhQglZVqYHl8s=
+
+prettier@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.npm.taobao.org/prettier/download/prettier-2.1.2.tgz?cache=0&sync_timestamp=1600215545173&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fprettier%2Fdownload%2Fprettier-2.1.2.tgz#3050700dae2e4c8b67c4c3f666cdb8af405e1ce5"
+  integrity sha1-MFBwDa4uTItnxMP2Zs24r0BeHOU=
 
 pretty-ms@^7.0.0:
   version "7.0.0"
@@ -4434,10 +4439,10 @@ stylelint-scss@^3.18.0:
     postcss-selector-parser "^6.0.2"
     postcss-value-parser "^4.1.0"
 
-stylelint@^13.7.0:
-  version "13.7.0"
-  resolved "https://registry.npm.taobao.org/stylelint/download/stylelint-13.7.0.tgz#8d7a4233063b2f06e9f28b3405ff189e334547b5"
-  integrity sha1-jXpCMwY7Lwbp8os0Bf8YnjNFR7U=
+stylelint@^13.7.2:
+  version "13.7.2"
+  resolved "https://registry.npm.taobao.org/stylelint/download/stylelint-13.7.2.tgz#6f3c58eea4077680ed0ceb0d064b22b100970486"
+  integrity sha1-bzxY7qQHdoDtDOsNBksisQCXBIY=
   dependencies:
     "@stylelint/postcss-css-in-js" "^0.37.2"
     "@stylelint/postcss-markdown" "^0.36.1"
